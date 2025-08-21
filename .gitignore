@@ -1,0 +1,9 @@
+# Virtual environment
+.venv/
+
+# Planning docs
+MVP/
+post-MVP/
+
+# Assistant
+CLAUDE.md
